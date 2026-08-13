@@ -1,4 +1,10 @@
+Perfect. 🔥 **Now we're at the final step of Day 2.**
 
+Your `docs/HLD.md` should contain the architecture we designed today.
+
+Paste this into the file:
+
+````markdown
 # Rewynd — High-Level Design
 
 > Rewynd lets you relive the moments you were once in, with the same people, with the same energy and with a pinch of hovering emotions.
